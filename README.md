@@ -1,6 +1,12 @@
 # Test-Cases
 
-# Valid sign up
+Below are some Test Case samples that I wrote.
+
+*******
+
+## Valid sign up
+
+*******
 
 TEST CASE 1
 
@@ -8,7 +14,8 @@ Title : Validate sign up with valid  email address.
 
 Description: Check if the sign up works when a person uses a valid email address.
 
-Steps to reproduce: 	1.Navigate to sign up page
+Steps to reproduce: 	
+			1.Navigate to sign up page
 			2.Provide a valid first name
 			3.Provide a valid surname	
 			4.Provide a valid email address
@@ -27,7 +34,7 @@ Status: Ready to Test
 
 Priority: High
 
-
+*******
 
 TEST CASE 2
 
@@ -54,7 +61,7 @@ Status: Ready to Test
 
 Priority: High
 
-
+*******
 
 TEST CASE 3
 
@@ -75,10 +82,11 @@ Status: Ready to Test
 
 Priority: Medium
 
+*******
 
+## Invalid Sign up
 
-# Invalid Sign up
-
+*******
 
 TEST CASE 4
 
@@ -99,7 +107,7 @@ Status: Ready to Test
 
 Priority: High
 
-
+*******
 
 TEST CASE 5
 
@@ -119,7 +127,7 @@ Status: Ready to Test
 
 Priority: High
 
-
+*******
 
 TEST CASE 6
 
@@ -141,7 +149,7 @@ Status: Ready to Test
 Priority: High
 
 
-
+*******
 
 TEST CASE 7
 
@@ -162,11 +170,11 @@ Status: Ready to Test
 
 Priority: Medium
 
+*******
 
+## Login
 
-# Login
-
-
+*******
 
 TEST CASE 8
 
@@ -184,6 +192,7 @@ Status: Ready to Test
 
 Priority: High
 
+*******
 
 TEST CASE 9
 
@@ -201,6 +210,7 @@ Status: Ready to Test
 
 Priority: High
 
+*******
 
 TEST CASE 10
 
@@ -228,6 +238,7 @@ Status: Ready to Test
 
 Priority: High
 
+*******
 
 TEST CASE 11
 
@@ -246,7 +257,7 @@ Status: Ready to Test
 Priority: High
 
 
-
+*******
 
 TEST CASE 12
 
@@ -264,7 +275,7 @@ Status: Ready to Test
 
 Priority: High
 
-
+*******
 
 TEST CASE 13
 
@@ -284,6 +295,7 @@ Status: Ready to Test
 
 Priority: High
 
+*******
 
 TEST CASE 14
 
@@ -302,7 +314,7 @@ Status: Ready to Test
 
 Priority: High
 
-
+*******
 
 TEST CASE 15
 
